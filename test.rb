@@ -2,3 +2,5 @@
 
 puts 'ruby!'
 puts 'matz!'
+
+puts 'done!'
